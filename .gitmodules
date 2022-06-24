@@ -1,0 +1,3 @@
+[submodule "bee-french"]
+	path = bee-french
+	url = https://github.com/MLienar/bee-french.git
